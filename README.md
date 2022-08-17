@@ -7,19 +7,19 @@ Kodluyoruz [Eğitimi](https://app.patika.dev/courses/git) Front-End Eğitiminde 
 ## Installation
 
 Önceki proje 
-'''
+'
 https://github.com/admozlp/kodluyoruzilkrepo.git
-'''
+'
 
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-'''
+'
 cd kodluyoruzilkrepo
 code .
-'''
+'
 
 ## Contributing
 
